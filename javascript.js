@@ -1,8 +1,6 @@
 let a = ""
 let b = ""
-let c = ""
 let operator = ""
-let screenArray = ""
 
 const numberButtons = document.querySelectorAll("[data-number]")
 const operatorButtons = document.querySelectorAll("[data-operator]")
